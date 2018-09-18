@@ -1,6 +1,6 @@
 {
   "name": "proxy-changer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "proxy replacement tool for mac. Finds and replaces one of the free proxy addresses.",
   "main": "index.js",
   "scripts": {
